@@ -4,6 +4,13 @@
 # 💫 About Me:
 🌱 I’m currently learning > Web development<br><br>👯 In collaboration > with Quasar<br><br>👨‍💻 All of my projects are available at > https://pablo-script.tebex.io<br><br>📫 How to reach me > me@pablozz.dev | discord.gg/pablozz
 
+# 📊 Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablozz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablozz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pablozz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Pablo_developpement) 
@@ -17,17 +24,3 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/27alexis27) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablozz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablozz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
