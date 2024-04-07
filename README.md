@@ -2,6 +2,9 @@
 🌱 I’m currently learning > Web development<br><br>👯 In collaboration > with Quasar<br><br>👨‍💻 All of my projects are available at > https://pablo-script.tebex.io<br><br>📫 How to reach me > me@pablozz.dev | discord.gg/pablozz
 
 
+![Logo](https://media.discordapp.net/attachments/1174751284205715486/1208236545518338119/Nouveau_projet_7.png?ex=66232678&is=6610b178&hm=08bd747d8e1c932fc0f42db871d20106c37751c6bfc9bc8b2670e0cef7e3578b&=&format=webp&quality=lossless&width=676&height=676)
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pablozz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Pablo_developpement) 
 
