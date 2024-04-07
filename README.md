@@ -1,8 +1,8 @@
+
+![Logo](https://media.discordapp.net/attachments/1174751284205715486/1207367155322978424/Nouveau_projet_1.png?ex=661ffcc9&is=660d87c9&hm=e029c9a06a14242c6916b541f5a52fa13a54f9057e8edfdb79ac6f0fc9c03376&=&format=webp&quality=lossless)
+
 # 💫 About Me:
 🌱 I’m currently learning > Web development<br><br>👯 In collaboration > with Quasar<br><br>👨‍💻 All of my projects are available at > https://pablo-script.tebex.io<br><br>📫 How to reach me > me@pablozz.dev | discord.gg/pablozz
-
-
-![Logo]([[https://media.discordapp.net/attachments/1174751284205715486/1208236545518338119/Nouveau_projet_7.png?ex=66232678&is=6610b178&hm=08bd747d8e1c932fc0f42db871d20106c37751c6bfc9bc8b2670e0cef7e3578b&=&format=webp&quality=lossless&width=676&height=676](https://media.discordapp.net/attachments/1174751284205715486/1225904746049703966/untitled1x-1.0s-200px-200px.gif?ex=6622d3c3&is=66105ec3&hm=2cc70ff6fc76bd2f2223633a2fc8872765194aabbe3c071b7c41fa296994e3aa&=)](https://media.discordapp.net/attachments/1174751284205715486/1207358471654211675/Nouveau_projet.png?ex=661ff4b3&is=660d7fb3&hm=ac115b6feaa4da2e615226f4883a8a3c636cd7d61a0ab724194eec7fb0326724&=&format=webp&quality=lossless))
 
 
 ## 🌐 Socials:
