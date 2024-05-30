@@ -1,5 +1,5 @@
 
-![Logo](https://media.discordapp.net/attachments/1174751284205715486/1207367155322978424/Nouveau_projet_1.png?ex=661ffcc9&is=660d87c9&hm=e029c9a06a14242c6916b541f5a52fa13a54f9057e8edfdb79ac6f0fc9c03376&=&format=webp&quality=lossless)
+![Logo]([https://media.discordapp.net/attachments/1174751284205715486/1207367155322978424/Nouveau_projet_1.png?ex=661ffcc9&is=660d87c9&hm=e029c9a06a14242c6916b541f5a52fa13a54f9057e8edfdb79ac6f0fc9c03376&=&format=webp&quality=lossless](https://cdn.discordapp.com/attachments/1174751284205715486/1236852827767312446/pablobanner.png?ex=66592875&is=6657d6f5&hm=30b699717a71e7ad3e2691d8e6fb169377c0238e234c861b91eb77c7f855c163&))
 
 # 💫 About Me:
 🌱 I’m currently learning > Web development<br><br>👯 In collaboration > with Quasar<br><br>👨‍💻 All of my projects are available at > https://pablo-script.tebex.io<br><br>📫 How to reach me > me@pablozz.dev | discord.gg/pablozz
